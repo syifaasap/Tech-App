@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "537252245528",
+    "firebase_url": "https://syifa-dispatch-app-default-rtdb.firebaseio.com",
+    "project_id": "syifa-dispatch-app",
+    "storage_bucket": "syifa-dispatch-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537252245528:android:b51b3bf34b46ce0253936d",
+        "android_client_info": {
+          "package_name": "com.syifaasap.techapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537252245528-b5g7a7ss0ucfak5fv409s7u5pb0ldcjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Dxyut_-TD0bvzF7LfDSLSQFYMh5LEVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537252245528-b5g7a7ss0ucfak5fv409s7u5pb0ldcjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
